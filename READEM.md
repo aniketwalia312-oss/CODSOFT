@@ -2,10 +2,27 @@
                                           LEVEL-1
 My first task as a web developer intern in CODSOFT. and the task really help me in developing new skills and how to face challenges and make perfections at the same time,I enjoyed while working on my project and it was good fun. I would say... 
 
+                                           QUESTION:
+Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
+
+Header Section: Add your name or a logo at the top.Optionally, include a brief introduction or tagline.
+
+About Section: Insert an image of yourself.Write a short bio highlighting your skills and experience.
+
+Skills Section: List your key skills or areas of expertise.
+
+Projects Section: Showcase samples of your work or projects.Include project titles, descriptions,and images.
+
+Resume Section: Provide a link to download your resume in PDF format.
+
+Contact Section: Include your contact information, such as email address and phone number.
+
+Footer: Add a copyright notice and any additional links or information.
+
 TASK-1:-(MY PORTFOLIO)
 
 FILE:
-      [index.html](https://github.com/user-attachments/files/28916201/index.html)
+    [index.html](https://github.com/user-attachments/files/28916653/index.html.html)
 
 FOR MOBILE: https://nexusjobboard.netlify.app/
 
