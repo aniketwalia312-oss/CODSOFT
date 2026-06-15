@@ -2,7 +2,7 @@
                                           LEVEL-1
 My first task as a web developer intern in CODSOFT. and the task really help me in developing new skills and how to face challenges and make perfections at the same time,I enjoyed while working on my project and it was good fun. I would say... 
 
-                                           QUESTION:
+                                          QUESTION:
 Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
 
 Header Section: Add your name or a logo at the top.Optionally, include a brief introduction or tagline.
