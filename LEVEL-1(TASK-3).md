@@ -11,9 +11,10 @@ loops to handle user input and perform calculations. This project requires some 
 done with basic knowledge of these technologies..
 
                                      TASK-3(CALCULATOR):
-FILE: [index.html](https://github.com/user-attachments/files/28963790/index.html)
+FILE: [index.html](https://github.com/user-attachments/files/28966370/index.html)
 
-FILE FOR PHONE: https://herocalculator.netlify.app/
+FILE FOR PHONE:  https://herocalculate.netlify.app/
+
 
 CODE:
 <!DOCTYPE html>
