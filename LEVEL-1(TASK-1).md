@@ -22,7 +22,7 @@ Footer: Add a copyright notice and any additional links or information.
                                         TASK-1:-(MY PORTFOLIO)
 
 FILE:
-    [index.html](https://github.com/user-attachments/files/28916653/index.html.html)
+    [index.html](https://github.com/user-attachments/files/28916653/index.html)
 
 FOR MOBILE: https://nexusjobboard.netlify.app/
 
